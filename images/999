@@ -1,0 +1,28 @@
+{
+
+    "name": "C-FootNFT",
+
+    "description": "The NFT of the PayFoot Ecosystem",
+
+    "image": "https://drive.google.com/file/d/1q1oI8rPsu9m8TP-IWZk6IfAMjfUX9Qhz/view?usp=sharing",
+    "animation_url": "https://drive.google.com/file/d/1zBGaK4XeLqBn0PJNyIqaPkLNM1M6UZhM/view?usp=sharing",
+    
+    "attributes": [
+    { "card_type": "edition",
+      "value": 1
+    },
+    { "card_type": "number",
+      "value": 999
+    },
+    { "event": "name",
+      "value": "2022 02 Dubai"
+    }  
+
+
+  ]
+
+}
+
+
+
+
