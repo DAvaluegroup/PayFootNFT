@@ -4,8 +4,8 @@
 
     "description": "The NFT of the PayFoot Ecosystem",
 
-    "image": "https://drive.google.com/file/d/1q1oI8rPsu9m8TP-IWZk6IfAMjfUX9Qhz/view?usp=sharing",
-    "animation_url": "https://drive.google.com/file/d/1jsQdFR4q71bX543yCYIN_FjKKWZ78WkS/view?usp=sharing",
+    "image": "https://drive.google.com/file/d/1q1oI8rPsu9m8TP-IWZk6IfAMjfUX9Qhz/",
+    "animation_url": "https://payfoot.com/wp-content/uploads/2022/02/01.gif",
     
     "attributes": [
     { "card_type": "edition",
