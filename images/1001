@@ -1,0 +1,24 @@
+{
+
+    "name": "C-FootNFT",
+
+    "description": "The NFT of the PayFoot Ecosystem",
+
+    "image": "https://www.bcts.ch/wp-content/uploads/2022/02/pexels-nmr-hrd-3571065-bg_.png",
+    "animation_url": "https://www.bcts.ch/wp-content/uploads/2022/02/ESB2.gif",
+    
+    "attributes": [
+    { "card_type": "edition",
+      "value": 2
+    },
+    { "card_type": "number",
+      "value": 1001
+    },
+    { "event": "name",
+      "value": "2022 02 ESB Sportstech"
+    }  
+
+
+  ]
+
+}
