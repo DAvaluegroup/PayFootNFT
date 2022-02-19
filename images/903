@@ -1,0 +1,24 @@
+{
+
+    "name": "C-FootNFT",
+
+    "description": "The NFT of the PayFoot Ecosystem",
+
+    "image": "https://www.bcts.ch/wp-content/uploads/2022/02/C-Foot-1.png",
+    "animation_url": "https://payfoot.com/wp-content/uploads/2022/02/payfoot_dubai_final.mp4",
+    
+    "attributes": [
+    { "card_type": "edition",
+      "value": 1
+    },
+    { "card_type": "number",
+      "value": 903
+    },
+    { "event": "name",
+      "value": "2022 02 Dubai"
+    }  
+
+
+  ]
+
+}
