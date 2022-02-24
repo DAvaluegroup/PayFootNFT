@@ -1,0 +1,24 @@
+{
+
+    "name": "C-FootNFT",
+
+    "description": "The NFT of the PayFoot Ecosystem",
+
+    "image": "https://gateway.pinata.cloud/ipfs/QmUT4fG4NAiZiCCvxp95qVRPUBxsXrwJcHBSQmFbg6s4Q4",
+    "animation_url": "https://ipfs.io/ipfs/QmbMAeagHXxnHQJSGukYynKEu4GzWr5pD1Pfgjg584wvu6",
+    
+    "attributes": [
+    { "card_type": "edition",
+      "value": 1
+    },
+    { "card_type": "number",
+      "value": 10098
+    },
+    { "event": "name",
+      "value": "2022 02 Telma special"
+    }  
+
+
+  ]
+
+}
