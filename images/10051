@@ -1,0 +1,25 @@
+
+{
+
+    "name": "C-FootNFT",
+
+    "description": "The NFT of the PayFoot Ecosystem",
+
+    "image": "https://gateway.pinata.cloud/ipfs/QmcRRj38e7dvum7rcoKEC6YV3gB14SomXziEa9q3SRrsg2",
+    "animation_url": "https://gateway.pinata.cloud/ipfs/Qmb6NgNhKUMQ9YDjvQzYEbtbqBzS8iCoN6PgNxagmethyD",
+    
+    "attributes": [
+    { "card_type": "edition",
+      "value": 1
+    },
+    { "card_type": "number",
+      "value": 10051
+    },
+    { "event": "name",
+      "value": "ASD NFT executive lounge"
+    }  
+
+
+  ]
+
+}
