@@ -4,8 +4,8 @@
 
     "description": "The NFT of the PayFoot Ecosystem",
 
-    "image": "https://gateway.pinata.cloud/ipfs/Qmb6NgNhKUMQ9YDjvQzYEbtbqBzS8iCoN6PgNxagmethyD",
-    "animation_url": "https://www.bcts.ch/wp-content/uploads/2022/03/ezgif-5-7d278ad239.mp4",
+    "image": "https://gateway.pinata.cloud/ipfs/QmcRRj38e7dvum7rcoKEC6YV3gB14SomXziEa9q3SRrsg2",
+    "animation_url": "https://gateway.pinata.cloud/ipfs/Qmb6NgNhKUMQ9YDjvQzYEbtbqBzS8iCoN6PgNxagmethyD",
     
     "attributes": [
     { "card_type": "edition",
